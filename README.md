@@ -128,6 +128,9 @@
 <a href="https://www.youtube.com/channel/UCPtwrd2c52BTgTepIRU4jZg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23292929.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+<a href="https://discord.gg/RznbsQDStr" target="_blank">
+<img src=https://img.shields.io/badge/%3CServer%3E-%237289DA?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>  
 </div>  
 
 ---
