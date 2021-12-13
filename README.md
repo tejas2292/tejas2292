@@ -40,6 +40,14 @@
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
   </a>
+   <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" 
+      alt="Python"/> 
+  </a>
+  <a href="https://dart.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dart-230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" 
+      alt="dart"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -69,12 +77,34 @@
   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
   </a>
+    <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/figma-23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  </a>
     <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://developer.android.com/studio?gclsrc=ds&gclsrc=ds" target="_blank"> 
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  </a>
+  <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank"> 
+    <img src="https://img.shields.io/badge/Flutter-23404d59.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
+      alt="virtualbox"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
   
