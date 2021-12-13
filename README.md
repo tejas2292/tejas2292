@@ -21,7 +21,6 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/tejas2292)
 </div>
 
-<br/>
 ---
 
 ### Spotify Playing 🎧
