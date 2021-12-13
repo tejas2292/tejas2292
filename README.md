@@ -32,8 +32,8 @@
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C++%20programming-A8B9CC.svg?style=for-the-badge&logo=c++&logoColor=white"
+    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
+    <img src="https://img.shields.io/badge/C++%20programming-1572B6.svg?style=for-the-badge&logo=c++&logoColor=white"
       alt="c++"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
@@ -53,7 +53,7 @@
       alt="bootstrap"/>
   </a>
  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="sqlite"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
