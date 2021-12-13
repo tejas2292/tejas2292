@@ -5,12 +5,12 @@
 
 ## Don't comment bad code - rewrite it 
 
-- 💻 Actively looking for Software Development Engineer roles.
 - 📚 I'm a Computer Science and Engineering Student.
+- 💻 Actively looking for Software Development Engineer roles.
 - 💬 Ask me about **App Development, Cloud**
-- 🌱 I’m currently learning Angular
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: Ready to talk about spirtiuality, fashion and technology anytime!
+- 🌱 I’m currently learning **Angular**
+- 💪🏼 Future Goals: Learn more technologies - **Never stop creating new ideas.**
+- ⚡ Fun fact: Ready to talk about **spirtiuality**, **Technology** and **Anime** anytime!
 
 ---
 
