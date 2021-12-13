@@ -16,11 +16,12 @@
 
 ### Github Statistics 📈
 
-<div align="center" display="flex">
+<div align="center">
 [![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tejas2292)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/tejas2292)
 </div>
 
+<br/>
 ---
 
 ### Spotify Playing 🎧
