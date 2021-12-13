@@ -16,10 +16,12 @@
 
 ### Github Statistics 📈
 
-  <a align="center" href="https://github.com/tejas2292">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejas2292&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2292&theme=buefy&layout=compact" />
-</a>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tejas2292)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/tejas2292)
+</div>
 
 ---
 
