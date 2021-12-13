@@ -3,12 +3,14 @@
 
 <img align="right" width=160px height=160px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## Don't comment bad code - rewrite it 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💻 Actively looking for Software Development Engineer roles.
+- 📚 I'm a Computer Science and Engineering Student.
+- 💬 Ask me about **App Development, Cloud**
+- 🌱 I’m currently learning Angular
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: Ready to talk about spirtiuality, fashion and technology anytime!
 
 ---
 
