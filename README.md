@@ -16,8 +16,10 @@
 
 ### Github Statistics 📈
 
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-  <img alt="GIF" height="160px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  <a href="https://github.com/tejas2292">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejas2292&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2292&theme=buefy&layout=compact" />
+</a>
 
 ---
 
