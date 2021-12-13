@@ -71,7 +71,7 @@
 <a href="https://www.instagram.com/tp_tejas20/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="hhttps://www.youtube.com/channel/UCPtwrd2c52BTgTepIRU4jZg" target="_blank">
+<a href="https://www.youtube.com/channel/UCPtwrd2c52BTgTepIRU4jZg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23292929.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
