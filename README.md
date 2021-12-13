@@ -25,6 +25,12 @@
 
 ---
 
+### Github Statistics 📈
+
+  
+  
+---
+  
 ### Spotify Playing 🎧
   <div align="center">
 
@@ -35,11 +41,10 @@
 
 ---
 
+  
+  
 [website]: https://tejaspatil.tech/
 [Spotify]: https://open.spotify.com/user/11153360645
-
-
-----
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/tejas2292/tejas2292/main/resources/img/github-contribution-grid-snake.svg"
