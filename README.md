@@ -17,7 +17,7 @@
 ### Github Statistics 📈
 
 <a href="https://github.com/tejas2292">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitaugale23&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejas2292&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaugale23&theme=buefy&layout=compact" />
 </a>
 
