@@ -59,23 +59,20 @@
 ### Connect with me 📫
 
   <div align="center">
-<a href="https://github.com/ankitaugale23" target="_blank">
+<a href="https://github.com/tejas2292" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ugale_ankita" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ankita-ugale-333b21199/" target="_blank">
+<a href="https://www.linkedin.com/in/tejas-patil-2b59381a4/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/ankitawritess" target="_blank">
+<a href="https://www.facebook.com/people/Tejas-Patil/100040205556443/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/its____ankita/" target="_blank">
+<a href="https://www.instagram.com/tp_tejas20/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://ankita-ugale.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="hhttps://www.youtube.com/channel/UCPtwrd2c52BTgTepIRU4jZg" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
