@@ -101,6 +101,10 @@
 
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
 
-Last Edited on: 23/09/2020
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
