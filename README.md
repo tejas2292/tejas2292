@@ -27,7 +27,7 @@
 
 ### Languages & Tools 💻
 
-  <p align="center">
+  <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
@@ -58,7 +58,7 @@
   
 ### Connect with me 📫
 
-  <div align="center">
+  <div align="left">
 <a href="https://github.com/tejas2292" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
