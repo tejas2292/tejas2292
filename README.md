@@ -4,7 +4,10 @@
 <img align="right" width=180px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## Don't comment bad code - rewrite it ;
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaugale23" alt="ankitaugale23" /> </p>
+<br />
+  
 - 📚 I'm a Computer Science and Engineering Student.
 - 💻 Actively looking for Software Development Engineer roles.
 - 💬 Ask me about **App Development, Cloud**
