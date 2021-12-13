@@ -3,10 +3,7 @@
 
 <img align="right" width=180px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## Don't comment bad code - rewrite it ;
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaugale23" alt="ankitaugale23" /> </p>
-<br />
+## Don't comment bad code - rewrite it ; <img src="https://komarev.com/ghpvc/?username=tejas2292" alt="tejas2292" /> 
   
 - 📚 I'm a Computer Science and Engineering Student.
 - 💻 Actively looking for Software Development Engineer roles.
