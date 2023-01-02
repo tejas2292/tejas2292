@@ -147,6 +147,6 @@
 
   
   
-[website]: https://tejaspatil.tech/
+[website]: https://tejaspatil.live/
 [Spotify]: https://open.spotify.com/user/11153360645
 
