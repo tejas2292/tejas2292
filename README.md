@@ -122,7 +122,7 @@
 <a href="https://www.facebook.com/people/Tejas-Patil/100040205556443/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/magnus_tejas/" target="_blank">
+<a href="https://www.instagram.com/tejas_patil_2292/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCPtwrd2c52BTgTepIRU4jZg" target="_blank">
