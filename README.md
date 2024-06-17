@@ -8,7 +8,7 @@
 - 📚 I'm a Computer Science and Engineering Student.
 - 💻 Actively looking for Software Development Engineer roles.
 - 💬 Ask me about **App Development, Cloud**
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently working on **Embedded Applications**
 - 💪🏼 Future Goals: Learn more technologies - **Never stop creating new ideas.**
 - ⚡ Fun fact: Ready to talk about **spirtiuality**, **Technology** and **Anime** anytime!
 
