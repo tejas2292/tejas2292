@@ -5,10 +5,9 @@
 
 ## Don't comment bad code - rewrite it ;
   
-- 📚 I'm a Computer Science and Engineering Student.
-- 💻 Actively looking for Software Development Engineer roles.
+- 💻 I'm a Software Engineer.
 - 💬 Ask me about **App Development, Cloud**
-- 🌱 I’m currently working on **Embedded Applications**
+- 🌱 I’m currently working on **Cloud Technologies**
 - 💪🏼 Future Goals: Learn more technologies - **Never stop creating new ideas.**
 - ⚡ Fun fact: Ready to talk about **spirtiuality**, **Technology** and **Anime** anytime!
 
